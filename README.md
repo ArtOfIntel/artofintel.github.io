@@ -1,1 +1,2 @@
 # artofintel.github.io
+COOL
